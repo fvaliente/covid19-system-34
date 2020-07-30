@@ -397,12 +397,12 @@ for 2 minutes')
             m300.air_gap(20)
             m300.drop_tip()
 
-"""
-Here is where you can call the methods defined above to fit your specific
-protocol. The normal sequence is:
-- bind(200)
-- wash(500, wash1)
-- wash(500, wash2)
-- wash(500, wash3)
-- elute(50)
-"""
+    """
+    Here is where you can call the methods defined above to fit your specific
+    protocol. The normal sequence is:
+    - bind(200)
+    - wash(500, wash1)
+    - wash(500, wash2)
+    - wash(500, wash3)
+    - elute(50)
+    """
